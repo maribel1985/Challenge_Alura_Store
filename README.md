@@ -9,3 +9,4 @@ Desafio 1. Alura Store para identificar la tienda menos eficiente y ayudar al cl
 5. Visualización (tres gráficos)
 6. Informe final
 
+Para este proyecto uso las siguientes librerías:  Pandas, Numpy y Matplotlib. Y aplico todos los conocimientos obtenidos durante el curso "Practicando Python para Data Science". Además, uso como ayuda inteligencia artificial para evaluar y mejorar algunas líneas de código.
